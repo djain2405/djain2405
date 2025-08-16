@@ -22,7 +22,7 @@ While I started as an Android engineer, I’m now on a mission to become a **hol
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/divyajain2405/)  
 
 **[Blog](https://androidwithdivya.wordpress.com/)** <br>
-**[My Website]([http://divya-web.com/](https://personal-website-2jik.vercel.app/))** <br>
+**[My Website](https://personal-website-2jik.vercel.app/)** <br>
 **[SpeakerDeck](https://speakerdeck.com/djain2405)** <br>
 
 ### 💬 Fun Facts
