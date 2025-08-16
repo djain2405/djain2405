@@ -1,25 +1,38 @@
-### Hi there 👋
+### Hi there, I’m Divya 👋  
 
 <!--
 **djain2405/djain2405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+**Mobile Engineering Manager | Android Expert | Speaker | Builder of Joyful Apps**
 
-My name is Divya, I'm a Lead Android Developer at BlueOwl LLC, currently working on Hi-Road Auto Insurance App. 
-I am an Android Enthusiast, also experimenting & learning other mobile frameworks like IOS, React Native with a goal to become a <b>Holistic Mobile App Developer</b> 
+Currently leading **Mobile Engineering** at **Quanata**, where I manage a talented team building the **HiRoad Auto Insurance App** 🚘📲. With over **10 years in mobile**, I’ve grown from building Android apps solo to now mentoring engineers, shaping product roadmaps, and scaling apps that impact thousands of users.
 
-*I've been working on Mobile Apps (Android) for over 7 years and I love to create useful and user-friendly apps to make lives more easy and happy. You will also find me blogging about my code experiments and things I learn. I also speak at conferences and love travelling the world.*
+While I started as an Android engineer, I’m now on a mission to become a **holistic mobile technologist** — exploring **iOS**, **React Native**, and **SwiftUI**, with a goal to lead full-stack mobile teams across platforms.
+
+### 🌟 What I'm About
+- 👩🏽‍💻 **Currently**: Leading mobile engineering on HiRoad – a purpose-driven auto insurance app  
+- 🧠 **Exploring**: Jetpack Compose, SwiftUI, and mobile architecture patterns  
+- 🤝 **Open to collabs**: Have a mobile app idea? Let’s co-create magic  
+- 🧭 **Passionate about**: Building delightful user experiences + empowering dev teams  
+- 🗣 **Conference Speaker**: Android Makers, Droidcon, DroidKaigi, and more  
+- ✍🏽 **Writer**: I blog about my code experiments, tech leadership, and mobile trends
+
 
 ### Drop by & say hi! 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/divyajain2405/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/divyajain2405)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/divyajain2405/)  
 
 **[Blog](https://androidwithdivya.wordpress.com/)** <br>
 **[My Website](http://divya-web.com/)** <br>
 **[SpeakerDeck](https://speakerdeck.com/djain2405)** <br>
 
-- 🔭 I’m currently working on [HiRoad Auto Insurance App](https://play.google.com/store/apps/details?id=xyz.blueowl.mobile.hiroad&hl=en_US&gl=US)
-- 🌱 I’m currently learning Jetpack Compose & SwiftUI 
-- 👯 I’m looking to collaborate on mobile apps. Have an idea and looking for technical partnerships ? Reach out.
-- 💬 Ask me about anything mobile. I will try my best to help.
-- 😄 Pronouns: She / Her
-- ⚡ Fun fact: *I am an avid Reader, Tech Speaker, F.R.I.E.N.D.S lover and just some singer !!* 
+### 💬 Fun Facts
+- 😄 Pronouns: She / Her  
+- 📚 Avid reader of fiction & non-fiction  
+- 🎤 Tech speaker + occasional shower concert vocalist  
+- 🌍 Travel junkie — always planning the next adventure  
+- 📺 F.R.I.E.N.D.S is my comfort show (don’t @ me)
+
+---
+
+Thanks for stopping by — feel free to drop a note or collab idea! 👋
 
