@@ -2,7 +2,7 @@
 
 <!--
 **djain2405/djain2405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-**Mobile Engineering Manager | Android Expert | Speaker | Builder of Joyful Apps**
+**Mobile Engineering Manager | Hands-on with Android development | Speaker | Builder of Joyful Apps**
 
 Currently leading **Mobile Engineering** at **Quanata**, where I manage a talented team building the **HiRoad Auto Insurance App** 🚘📲. With over **10 years in mobile**, I’ve grown from building Android apps solo to now mentoring engineers, shaping product roadmaps, and scaling apps that impact thousands of users.
 
