@@ -21,7 +21,8 @@ While I started as an Android engineer, I’m now on a mission to become a **hol
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/divyajain2405/)  
 
-**[Blog](https://androidwithdivya.wordpress.com/)** <br>
+**[Blog](https://mobile-with-me-blog.vercel.app/)** <br>
+**[Newsletter](https://leadbuildmanifest.substack.com/)** <br>
 **[My Website](https://www.divyajain.dev/)** <br>
 **[SpeakerDeck](https://speakerdeck.com/djain2405)** <br>
 
